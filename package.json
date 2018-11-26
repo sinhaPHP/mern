@@ -1,0 +1,11 @@
+{
+  "name": "mernfull",
+  "version": "1.0.0",
+  "description": "\"MERN starting\"",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Kishor",
+  "license": "ISC"
+}
